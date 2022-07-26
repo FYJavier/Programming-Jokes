@@ -11,6 +11,7 @@
 		AEDF5B75289044D7000C227C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF5B74289044D7000C227C /* ContentView.swift */; };
 		AEDF5B77289044DD000C227C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEDF5B76289044DD000C227C /* Assets.xcassets */; };
 		AEDF5B7A289044DD000C227C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEDF5B79289044DD000C227C /* Preview Assets.xcassets */; };
+		AEDF5B8128904C86000C227C /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF5B8028904C85000C227C /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AEDF5B74289044D7000C227C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AEDF5B76289044DD000C227C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEDF5B79289044DD000C227C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AEDF5B8028904C85000C227C /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../../SwiftyJSON-master/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				AEDF5B72289044D7000C227C /* Programming_JokesApp.swift */,
 				AEDF5B74289044D7000C227C /* ContentView.swift */,
 				AEDF5B76289044DD000C227C /* Assets.xcassets */,
+				AEDF5B8028904C85000C227C /* SwiftyJSON.swift */,
 				AEDF5B78289044DD000C227C /* Preview Content */,
 			);
 			path = "Programming Jokes";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDF5B8128904C86000C227C /* SwiftyJSON.swift in Sources */,
 				AEDF5B75289044D7000C227C /* ContentView.swift in Sources */,
 				AEDF5B73289044D7000C227C /* Programming_JokesApp.swift in Sources */,
 			);
